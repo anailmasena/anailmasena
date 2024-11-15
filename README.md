@@ -3,7 +3,9 @@
 🎓 Estudante de Inteligência de Mercado e Análise de Dados | 🚀 Em formação para se tornar Analista de Dados
 
 Sou Ana Ilma, estudante apaixonada por dados e tecnologia, explorando o mundo da análise de dados para transformar informações em insights valiosos. Estou desenvolvendo habilidades em Python, SQL e modelagem de dados, sempre buscando aprender e construir soluções úteis.
+
 😄 Pronouns: ela/dela
+
 📈 Objetivo: Aprimorar meus conhecimentos e compartilhar projetos que mostram minha jornada de aprendizado. 
 Vamos colaborar e construir algo incrível juntos!
 
